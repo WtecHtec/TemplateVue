@@ -1,7 +1,7 @@
 # 使用
 
 ```
- npm i wtechtec-template-vue
+ 
  
  npm install
  
