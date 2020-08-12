@@ -37,5 +37,4 @@
  配置 px 转换 rem。如果想开启，放开注释，然后在 build文件夹中的webpack.base.js下 放开 new webpack. LoaderOptionsPlugin {..} 的注释。
 
 # 地址
-[npm 地址](https://www.npmjs.com/package/wtechtec-template-vue)
 [git地址](https://github.com/WtecHtec/TemplateVue)
